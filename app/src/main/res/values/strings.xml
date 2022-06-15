@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Собери свой ПК сам</string>
+    <string name="logoIcon">Logo</string>
+    <string name="firstText">Форма</string>
+    <string name="secondText">Конфигуратор</string>
+    <string name="thirdText">Компоненты</string>
+    <string name="forthText">Готовые сборки</string>
+    <string name="headText">Собери свой ПК сам</string>
+    <string name="productCategory">Категория:</string>
+    <string name="productProperties">Свойства:</string>
+    <string name="btnText">Добавить в конфигуратор</string>
+    <string name="component_name">Название</string>
+    <string name="component_type">Категория</string>
+    <string name="component_properties">Характеристики</string>
+    <string name="component_href">Ссылка</string>
+    <string name="component_img">Имя изображения</string>
+    <string name="btn_add_text">Добавить</string>
+    <string name="btn_read_text">Все компоненты</string>
+    <string name="db_activity_head_text">Форма</string>
+    <string name="login">Войти</string>
+    <string name="registration">Регистрация</string>
+    <string name="mail">Введите почту</string>
+    <string name="pass">Введите пароль</string>
+    <string name="btn_configurator_check">Создать сборку</string>
+    <string name="btn_configurator_clear">Очистить конфигуратор</string>
+</resources>

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "833794940662",
+    "firebase_url": "https://computerassembler-60ed8-default-rtdb.firebaseio.com",
+    "project_id": "computerassembler-60ed8",
+    "storage_bucket": "computerassembler-60ed8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:833794940662:android:546f1ca015bbabfda016d7",
+        "android_client_info": {
+          "package_name": "com.diplom.e_commerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "833794940662-f8mpgvntbe7hrl10hht158b8qpn5nfai.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC08ACbyi-M6QysplvtwG3gZ4dhEVCanQo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "833794940662-f8mpgvntbe7hrl10hht158b8qpn5nfai.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
